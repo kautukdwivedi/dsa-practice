@@ -1,5 +1,5 @@
 public class MajorityElement1 {
-    // Leetcode 11: https://leetcode.com/problems/container-with-most-water/
+    // Leetcode 169: https://leetcode.com/problems/majority-element/
 
     public static void main(String[] args) {
         int[] nums = {1, 8, 6, 2, 5, 4, 8, 3, 7};
