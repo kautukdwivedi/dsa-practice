@@ -1,5 +1,5 @@
 public class NextGreaterElement3 {
-    // Leetcode 169: https://leetcode.com/problems/next-greater-element-iii/
+    // Leetcode 556: https://leetcode.com/problems/next-greater-element-iii/
 
     public static void main(String[] args) {
         int num = 43697532;
