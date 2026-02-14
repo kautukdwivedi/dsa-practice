@@ -1,6 +1,6 @@
 public class SubArraysWithBoundedMax {
 
-    // Leetcode 169: https://leetcode.com/problems/majority-element/
+    // Leetcode 795: https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/
 
     public static void main(String[] args) {
         int[] nums = {1, 8, 6, 2, 5, 4, 8, 3, 7};
